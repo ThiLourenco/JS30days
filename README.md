@@ -1,4 +1,4 @@
-<h1 align="center">JS 30days</h1>
+<h1 align="center">Vanilla JS 30days</h1>
 <p align="center">JavaScript challenges - Wesbos #Javascript30</p>
 
 
