@@ -7,6 +7,6 @@
 3. [CSS VAR]() 🚀 Handling CSS variable through JS
 4. [JS Array]() 🚀 Array JS's `map()`, `reduce()`, `filter()` & `sort()`
 5. [Image Gallery]() 🚀 Manipulate Flexbox
-6. [Type A Head]() AJAX call and live search form
+6. [Type A Head]() 🚀 AJAX call and live search form
 
 <p><i>This project is licensed under the  <a href="/LICENSE">MIT License</a></i></p>
