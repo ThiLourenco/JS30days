@@ -1,12 +1,14 @@
 <h1 align="center"> Vanilla JS 30days</h1>
 <p align="center">💻 JavaScript challenges - Wesbos #Javascript30</p>
 
+<p align="center"><i><a href="https://thilourenco.github.io/JS30days/">All challenges 🚀</a></i></p>
 
-1. [Drum Kit]() 🚀 Handling CSS properties thourgh events
-2. [CSS Clock]() 🚀 Handling transform in CSS using JS
-3. [CSS VAR]() 🚀 Handling CSS variable through JS
-4. [JS Array]() 🚀 Array JS's `map()`, `reduce()`, `filter()` & `sort()`
-5. [Image Gallery]() 🚀 Manipulate Flexbox
-6. [Type A Head]() 🚀 AJAX call and live search form
+1. [Drum Kit](https://thilourenco.github.io/JS30days/01-DrumKit) 🚀 Handling CSS properties thourgh events
+2. [CSS Clock](https://thilourenco.github.io/JS30days/02-CssClock) 🚀 Handling transform in CSS using JS
+3. [CSS VAR](https://thilourenco.github.io/JS30days/03-CssVar) 🚀 Handling CSS variable through JS
+4. [JS Array](https://thilourenco.github.io/JS30days/04-JSArrays) 🚀 Array JS's `map()`, `reduce()`, `filter()` & `sort()`
+5. [Image Gallery](https://thilourenco.github.io/JS30days/05-ImageGallery) 🚀 Manipulate Flexbox
+6. [Type A Head](https://thilourenco.github.io/JS30days/06-typeAHead) 🚀 AJAX call and live search form
+7. [JS Array 2](https://thilourenco.github.io/JS30days/07-JSArrays2) 🚀 Array JS's `some()`, `every()` & `find
 
 <p><i>This project is licensed under the  <a href="/LICENSE">MIT License</a></i></p>
