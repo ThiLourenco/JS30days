@@ -1,7 +1,7 @@
 <h1 align="center"> Vanilla JS 30days</h1>
 <p align="center">💻 JavaScript challenges - Wesbos #Javascript30</p>
 
-<p align="center"><i><a href="https://thilourenco.github.io/JS30days/" target="_blank">All challenges 🚀</a></i></p>
+<p align="center"><i><a href="https://thilourenco.github.io/JS30days/">All challenges 🚀</a></i></p>
 
 1. [Drum Kit](https://thilourenco.github.io/JS30days/01-DrumKit) 🚀 Handling CSS properties thourgh events
 2. [CSS Clock](https://thilourenco.github.io/JS30days/02-CssClock) 🚀 Handling transform in CSS using JS
