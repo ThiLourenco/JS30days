@@ -10,5 +10,6 @@
 5. [Image Gallery](https://thilourenco.github.io/JS30days/05-ImageGallery) 🚀 Manipulate Flexbox
 6. [Type A Head](https://thilourenco.github.io/JS30days/06-typeAHead) 🚀 AJAX call and live search form
 7. [JS Array 2](https://thilourenco.github.io/JS30days/07-JSArrays2) 🚀 Array JS's `some()`, `every()` & `find()`
+8. [Canvas Fun](https://thilourenco.github.io/JS30days/08-CanvasPaint) 🚀 Creating canvas painting
 
 <p align="center"><i>This project is licensed under the  <a href="/LICENSE">MIT License</a></i></p>
