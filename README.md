@@ -12,5 +12,6 @@
 7. [JS Array 2](https://thilourenco.github.io/JS30days/07-JSArrays2) 🚀 Array JS's `some()`, `every()` & `find()`
 8. [Canvas Fun](https://thilourenco.github.io/JS30days/08-CanvasPaint) 🚀 Creating canvas painting
 9. [Console DevTools](https://thilourenco.github.io/JS30days/09-DevToolsConsole) 🚀 working with `console`
+10. [Checkboxes](https://thilourenco.github.io/JS30days/10-CheckBoxes) 🚀 Selecting multiple checkboxes
 
 <p align="center"><i>This project is licensed under the  <a href="/LICENSE">MIT License</a></i></p>
