@@ -37,6 +37,7 @@ html {
 input:checked + p {
   background: #f9f9f9;
   text-decoration: line-through;
+  opacity: 0.7;
 }
 
 input[type="checkbox"]{
