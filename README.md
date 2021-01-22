@@ -13,5 +13,6 @@
 8. [Canvas Fun](https://thilourenco.github.io/JS30days/08-CanvasPaint) 🚀 Creating canvas painting
 9. [Console DevTools](https://thilourenco.github.io/JS30days/09-DevToolsConsole) 🚀 working with `console`
 10. [Check box](https://thilourenco.github.io/JS30days/10-CheckBoxes) 🚀 Selecting multiple checkboxes
+11. [Video Player](https://thilourenco.github.io/JS30days/11-HtmlVideoPlay) 🚀 Custom HTML5 Video Player
 
 <p align="center"><i>This project is licensed under the  <a href="/LICENSE">MIT License</a></i></p>
