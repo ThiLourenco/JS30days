@@ -14,5 +14,6 @@
 9. [Console DevTools](https://thilourenco.github.io/JS30days/09-DevToolsConsole) 🚀 working with `console`
 10. [Check box](https://thilourenco.github.io/JS30days/10-CheckBoxes) 🚀 Selecting multiple checkboxes
 11. [Video Player](https://thilourenco.github.io/JS30days/11-HtmlVideoPlay) 🚀 Custom HTML5 Video Player
+12. [Receive your gift](https://thilourenco.github.io/JS30days/12-KeyDetection) 🚀 Detecting Key sequences
 
 <p align="center"><i>This project is licensed under the  <a href="/LICENSE">MIT License</a></i></p>
