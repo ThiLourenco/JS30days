@@ -17,6 +17,8 @@ html {
 
 h1 {
   margin-top: 0;
+  margin-bottom: 12px;
+  text-align: center;
 }
 
 .site-wrap {
@@ -36,7 +38,7 @@ h1 {
 
 .align-right {
   float: right;
-  margin-right: 20px;
+  margin-left: 20px;
 }
 
 .slide-in {
@@ -49,7 +51,7 @@ h1 {
 }
 
 .align-right.slide-in {
-  transform: translateX(-30%) scale(0.95);
+  transform: translateX(30%) scale(0.95);
 }
 
 .slide-in.active {
