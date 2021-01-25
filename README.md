@@ -16,5 +16,6 @@
 11. [Video Player](https://thilourenco.github.io/JS30days/11-HtmlVideoPlay) 🚀 Custom HTML5 Video Player
 12. [Receive your gift](https://thilourenco.github.io/JS30days/12-KeyDetection) 🚀 Detecting Key sequences
 13. [Slide In on Scroll](https://thilourenco.github.io/JS30days/13-SlideInOnScroll) 🚀 Scrolling handling using JS with debounce fn
+14. [Reference vs Copy](https://thilourenco.github.io/JS30days/14-ReferenceVsCopy) 🚀 JS Reference vs Copy
 
 <p align="center"><i>This project is licensed under the  <a href="/LICENSE">MIT License</a></i></p>
