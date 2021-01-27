@@ -1,0 +1,37 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  color: black;
+  font-family: Helvetica, sans-serif;
+  background: rgba(204, 204, 204, 0.463);
+}
+
+.hero {
+  min-height: 80vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: black;
+}
+
+.title {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 50px;
+  color: black;
+  font-size: 35px;
+}
+
+.title:hover {
+  color:rgba(0, 0, 0, .4)
+}
+
+h1 {
+  text-shadow: 10px 10px 0 rgba(0, 0, 0, .8);
+  font-size: 120px;
+}
