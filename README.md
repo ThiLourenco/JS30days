@@ -18,5 +18,6 @@
 13. [Slide In on Scroll](https://thilourenco.github.io/JS30days/13-SlideInOnScroll) 🚀 Scrolling handling using JS with debounce fn
 14. [Reference vs Copy](https://thilourenco.github.io/JS30days/14-ReferenceVsCopy/) 🚀 JS Reference vs Copy
 15. [Local Storage](https://thilourenco.github.io/JS30days/15-LocalStorage) 🚀 Persistence of data with local storage
+16. [Text Shadow + Mouse Move](https://thilourenco.github.io/JS30days/16-TextShadowMouseMove) 🚀 Handle text shadow with js event
 
 <p align="center"><i>This project is licensed under the  <a href="/LICENSE">MIT License</a></i></p>
