@@ -20,5 +20,6 @@
 15. [Local Storage](https://thilourenco.github.io/JS30days/15-LocalStorage) 🚀 Persistence of data with local storage
 16. [Text Shadow + Mouse Move](https://thilourenco.github.io/JS30days/16-TextShadowMouseMove) 🚀 Handle text shadow with js event
 17. [Sorting](https://thilourenco.github.io/JS30days/17-Sorting) 🚀 Sorting using JS 
+18. [Array](https://thilourenco.github.io/JS30days/18-ArrayReduce) 🚀 Array Reduce
 
 <p align="center"><i>This project is licensed under the  <a href="/LICENSE">MIT License</a></i></p>
