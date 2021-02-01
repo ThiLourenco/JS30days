@@ -22,5 +22,6 @@
 17. [Sorting](https://thilourenco.github.io/JS30days/17-Sorting) 🚀 Sorting using JS 
 18. [Array](https://thilourenco.github.io/JS30days/18-ArrayReduce) 🚀 Array Reduce
 19. [WebCam Fun](https://thilourenco.github.io/JS30days/19-WebcamFun) 🚀 WebCam Fun
+20. [Speech Detection](https://thilourenco.github.io/JS30days/20-SpeechRecognition) 🚀 Native Speech Recognition
 
 <p align="center"><i>This project is licensed under the  <a href="/LICENSE">MIT License</a></i></p>
