@@ -24,5 +24,6 @@
 19. [WebCam Fun](https://thilourenco.github.io/JS30days/19-WebcamFun) 🚀 WebCam Fun
 20. [Speech Detection](https://thilourenco.github.io/JS30days/20-SpeechRecognition) 🚀 Native Speech Recognition
 21. [Geolocation](https://thilourenco.github.io/JS30days/21-Geolocation) 🚀 Geolocation based Speedometer and Compass
+22. [Follow Along Links](https://thilourenco.github.io/JS30days/22-FollowAlongLinks) 🚀  Creating fluid transition of focus following links
 
 <p align="center"><i>This project is licensed under the  <a href="/LICENSE">MIT License</a></i></p>
