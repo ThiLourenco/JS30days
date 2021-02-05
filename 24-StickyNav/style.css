@@ -42,8 +42,12 @@ h1 {
   text-shadow: 3px 4px 0 rgba(0, 0, 0, 0.4);
 }
 
+h2 {
+  margin-bottom: 30px;
+} 
+
 nav {
-  background: black;
+  background: rgb(8, 134, 177);
   top: 0;
   width: 100%;
   transition: all 0.5s;
