@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+div {
+  width: 100%;
+  padding: 100px;
+}
+.one {
+  background: rgb(34, 43, 108);
+}
+.two {
+  background: rgb(101, 170, 173);
+}
+.three {
+  background: rgb(135, 255, 80);
+}
