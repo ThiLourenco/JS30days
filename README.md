@@ -27,6 +27,7 @@
 22. [Follow Along Links](https://thilourenco.github.io/JS30days/22-FollowAlongLinks) 🚀  Creating fluid transition of focus following links
 23. [Speech Synthesis](https://thilourenco.github.io/JS30days/23-SpeechSynthesis) 🚀  Speech Synthesis
 24. [Stick Nav](https://thilourenco.github.io/JS30days/24-StickyNav) 🚀 Creating Sticky navigation bar
-24. [Event Capture](https://thilourenco.github.io/JS30days/25-EventsCapture) 🚀 Understanding JavaScript's Capture
+25. [Event Capture](https://thilourenco.github.io/JS30days/25-EventsCapture) 🚀 Understanding JavaScript's Capture
+26. [Follow Along Nav](https://thilourenco.github.io/JS30days/26-FollowAlongNav) 🚀 Creating a follow along Navigation bar
 
 <p align="center"><i>This project is licensed under the  <a href="/LICENSE">MIT License</a></i></p>
