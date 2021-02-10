@@ -30,5 +30,6 @@
 25. [Event Capture](https://thilourenco.github.io/JS30days/25-EventsCapture) 🚀 Understanding JavaScript's Capture
 26. [Follow Along Nav](https://thilourenco.github.io/JS30days/26-FollowAlongNav) 🚀 Creating a follow along Navigation bar
 27. [Click Drag to Scroll](https://thilourenco.github.io/JS30days/27-DragtoScroll) 🚀 Handling Click and Drag to Scroll
+28. [Video Speed](https://thilourenco.github.io/JS30days/28-VideoSpeed) 🚀 Video Speed
 
 <p align="center"><i>This project is licensed under the  <a href="/LICENSE">MIT License</a></i></p>
