@@ -32,5 +32,6 @@
 27. [Click Drag to Scroll](https://thilourenco.github.io/JS30days/27-DragtoScroll) 🚀 Handling Click and Drag to Scroll
 28. [Video Speed](https://thilourenco.github.io/JS30days/28-VideoSpeed) 🚀 Video Speed
 29. [Countdown Clock](https://thilourenco.github.io/JS30days/29-CountDownClock) 🚀 Creating a Clock Timer
+30. [Whack-A-Mole Game](https://thilourenco.github.io/JS30days/30-WhackAMoleGame) 🚀 Whack-A-Mole Game
 
 <p align="center"><i>This project is licensed under the  <a href="/LICENSE">MIT License</a></i></p>
