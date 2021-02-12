@@ -4,7 +4,9 @@
   --purple-clear:#B721FF;
   --gray: #dededef1;
   --blue-ocean: #20b6d8;
+  --blue-dark: #0081d1;
   --yellow: #cccc16;
+  --green: #00b418;
 }
 
 * {
@@ -14,7 +16,7 @@
 }
 
 body {
-  background-image: linear-gradient(0deg, var(--blue-ocean) 0%, var(--purple-clear) 100%);  
+  background-image: linear-gradient(-2000deg, var(--blue-dark) 0%, var(--green) 100%);  
   font-family: 'Poppins', sans-serif;
 }
 
@@ -38,7 +40,7 @@ header {
 
 .hl {
   color:var(--yellow);
-  font-weight: 400;
+  font-weight: 800;
 }
 
 .logo {
